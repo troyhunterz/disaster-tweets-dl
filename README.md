@@ -8,8 +8,8 @@ It uses traditional ML (SVM with TF-IDF and Word2Vec) and Deep Learning (Conv1D 
   - `1` - disaster-related tweet
   - `0` - not disaster-related
 
-## 📚 Technologies % Libraries
-- Python 3.x
+## 📚 Technologies & Libraries
+- Python 3.12.4
 - pandas, numpy, seaborn, matplotlib
 - scikit-learn
 - Tensorflow / Keras
@@ -73,4 +73,5 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 troyhunterz
-Email: ann0nfolder@gmail.com
+
+email: ann0nfolder@gmail.com
